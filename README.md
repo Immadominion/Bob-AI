@@ -133,9 +133,6 @@ To use the local LLM (Mistral) for recommendations, follow these steps:
 > **Note**: The `llama.cpp` folder is not included in the repository. Users must download and set it up independently.
 
 ## Architectural Diagram
-![Architectural Diagram](docs/architecture.png)
-
-## Screenshots
 ![Screenshot 1](ss1.png)
 
 ## References
